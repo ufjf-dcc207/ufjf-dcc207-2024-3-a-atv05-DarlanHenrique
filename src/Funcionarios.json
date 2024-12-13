@@ -1,0 +1,156 @@
+{
+  "funcionarios": [
+    {
+      "nome_completo": "Ana Maria Souza",
+      "setor": "Recursos Humanos",
+      "data_admissao": "2015-03-12",
+      "salario_base": 4500.00,
+      "dependentes": [
+        {
+          "nome": "Pedro Souza",
+          "data_nascimento": "2010-07-15",
+          "abono_salarial": 200.00
+        },
+        {
+          "nome": "Clara Souza",
+          "data_nascimento": "2014-05-20",
+          "abono_salarial": 400.00
+        }
+      ]
+    },
+    {
+      "nome_completo": "Carlos Eduardo Lima",
+      "setor": "Tecnologia da Informacao",
+      "data_admissao": "2020-08-01",
+      "salario_base": 7000.00,
+      "dependentes": []
+    },
+    {
+      "nome_completo": "Fernanda Oliveira",
+      "setor": "Marketing",
+      "data_admissao": "2018-11-22",
+      "salario_base": 5200.00,
+      "dependentes": [
+        {
+          "nome": "Joao Oliveira",
+          "data_nascimento": "2013-03-30",
+          "abono_salarial": 300.00
+        }
+      ]
+    },
+    {
+      "nome_completo": "Joao Paulo Santos",
+      "setor": "Financeiro",
+      "data_admissao": "2010-05-15",
+      "salario_base": 6300.00,
+      "dependentes": [
+        {
+          "nome": "Mariana Santos",
+          "data_nascimento": "2008-09-18",
+          "abono_salarial": 100.00
+        },
+        {
+          "nome": "Lucas Santos",
+          "data_nascimento": "2016-11-25",
+          "abono_salarial": 400.00
+        }
+      ]
+    },
+    {
+      "nome_completo": "Gabriela Costa",
+      "setor": "Juridico",
+      "data_admissao": "2022-01-17",
+      "salario_base": 4900.00,
+      "dependentes": []
+    },
+    {
+      "nome_completo": "Ricardo Almeida",
+      "setor": "Logistica",
+      "data_admissao": "2019-06-10",
+      "salario_base": 3800.00,
+      "dependentes": [
+        {
+          "nome": "Sofia Almeida",
+          "data_nascimento": "2021-04-09",
+          "abono_salarial": 400.00
+        }
+      ]
+    },
+    {
+      "nome_completo": "Mariana Silva",
+      "setor": "Vendas",
+      "data_admissao": "2016-09-05",
+      "salario_base": 4200.00,
+      "dependentes": [
+        {
+          "nome": "Beatriz Silva",
+          "data_nascimento": "2009-02-14",
+          "abono_salarial": 200.00
+        },
+        {
+          "nome": "Caio Silva",
+          "data_nascimento": "2015-10-11",
+          "abono_salarial": 400.00
+        }
+      ]
+    },
+    {
+      "nome_completo": "Felipe Mendes",
+      "setor": "Operacoes",
+      "data_admissao": "2017-04-23",
+      "salario_base": 4000.00,
+      "dependentes": []
+    },
+    {
+      "nome_completo": "Julia Araujo",
+      "setor": "Atendimento",
+      "data_admissao": "2021-07-14",
+      "salario_base": 3100.00,
+      "dependentes": []
+    },
+    {
+      "nome_completo": "Thiago Nascimento",
+      "setor": "Engenharia",
+      "data_admissao": "2013-12-02",
+      "salario_base": 8000.00,
+      "dependentes": [
+        {
+          "nome": "Isabela Nascimento",
+          "data_nascimento": "2017-08-20",
+          "abono_salarial": 400.00
+        }
+      ]
+    },
+    {
+      "nome_completo": "Larissa Farias",
+      "setor": "Projetos",
+      "data_admissao": "2018-02-28",
+      "salario_base": 5600.00,
+      "dependentes": [
+        {
+          "nome": "Gabriel Farias",
+          "data_nascimento": "2012-10-03",
+          "abono_salarial": 300.00
+        },
+        {
+          "nome": "Eloisa Farias",
+          "data_nascimento": "2015-06-15",
+          "abono_salarial": 400.00
+        }
+      ]
+    },
+    {
+      "nome_completo": "Marcelo Vieira",
+      "setor": "Administrativo",
+      "data_admissao": "2009-11-10",
+      "salario_base": 4700.00,
+      "dependentes": [
+        {
+          "nome": "Daniel Vieira",
+          "data_nascimento": "2006-03-25",
+          "abono_salarial": 0.00
+        }
+      ]
+    }
+  ]
+}
